@@ -8,6 +8,10 @@ For example:
 * "locahost:8080/2" will give us "II" on the page
 * "locahost:8080/9" will give us "IX" on the page
 
+## Download the start code to your local directory
+Go to the folder where you want to download the project
+Run `git clone https://github.com/XuqiuyeLi/WWCode-TDD-KATA.git`
+
 ## How to run the server 
 Go to the project folder on command line
 
