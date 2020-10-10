@@ -10,6 +10,7 @@ For example:
 
 ## Download the start code to your local directory
 Go to the folder where you want to download the project
+
 Run `git clone https://github.com/XuqiuyeLi/WWCode-TDD-KATA.git`
 
 ## How to run the server 
