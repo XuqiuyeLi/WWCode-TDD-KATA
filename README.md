@@ -13,7 +13,16 @@ Go to the folder where you want to download the project
 
 Run `git clone https://github.com/XuqiuyeLi/WWCode-TDD-KATA.git`
 
+## If you don't have Java installed already
+If you are using homebrew: https://mkyong.com/java/how-to-install-java-on-mac-osx/
+
+
 ## How to run the server 
+Download and install gradle on your machine 
+https://gradle.org/releases/
+Choose the complete version instead of binary
+
+
 Go to the project folder on command line
 
 Run `./gradlew bootRun`
